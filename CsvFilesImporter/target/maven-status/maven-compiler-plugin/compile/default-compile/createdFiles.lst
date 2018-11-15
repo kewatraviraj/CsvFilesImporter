@@ -1,0 +1,9 @@
+com\goods\controller\GoodsController.class
+com\goods\dao\GoodsDao.class
+com\goods\configuration\WebMvcConfig.class
+com\goods\configuration\HibernateConfig.class
+com\goods\initializer\MyWebAppInitializer.class
+com\goods\service\GoodsService.class
+com\goods\model\Goods.class
+com\goods\serviceimpl\GoodsServiceImpl.class
+com\goods\daoimpl\GoodsDaoImpl.class
